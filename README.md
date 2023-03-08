@@ -581,3 +581,7 @@ public abstract class BaseMessage {
 
 #
 ![](http://upload-images.jianshu.io/upload_images/7802425-bb910b4ae954107a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+百度云
+/java学习资源/腾讯课堂/Java互联网架构师之设计模式-2019年腾讯课程
